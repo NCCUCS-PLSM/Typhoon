@@ -1,0 +1,19 @@
+%1. Title: typhoon database
+%
+%2. Sources: www.cwb.gov.tw-?
+%
+
+@RELATION typhoon
+
+@ATTRIBUTE path {-1,0,1,2,3,4,5,6,7,8,9}
+@ATTRIBUTE pressure NUMERIC
+@ATTRIBUTE speed NUMERIC
+@ATTRIBUTE radius7 NUMERIC
+@ATTRIBUTE radius10 NUMERIC
+@ATTRIBUTE alert NUMERIC
+@ATTRIBUTE county {1,2,3}
+
+
+@DATA
+
+pa,pr,sp,r7,r10,alt,xy
