@@ -1,8 +1,8 @@
 
 #Information
-Introduction: This is the project of 2013 Data Mining and Cloud Programming class.
-Author: Patrick Lee, Veck Hsiao, Nick Cheng, Weng Chih Tseng @ PLSM Lab, NCCU, Taipei, Taiwan
-Last update: 2014/01/21 18:13
+* Introduction: This is the project of 2013 Data Mining and Cloud Programming class.
+* Author: Patrick Lee, Veck Hsiao, Nick Cheng, Weng Chih Tseng @ PLSM Lab, NCCU, Taipei, Taiwan
+* Last update: 2014/01/21 18:13
 
 #File Structure
 ```
